@@ -42,17 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\DBFactory.cs" />
     <Compile Include="Classes\DBCommand.cs" />
     <Compile Include="Classes\DBConexao.cs" />
     <Compile Include="Classes\OracleCommand.cs" />
     <Compile Include="Classes\OracleConnection.cs" />
+    <Compile Include="Classes\OracleFactory.cs" />
     <Compile Include="Classes\SQLCommand.cs" />
     <Compile Include="Classes\SQLConnection.cs" />
+    <Compile Include="Classes\SQLFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram2.cd" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
