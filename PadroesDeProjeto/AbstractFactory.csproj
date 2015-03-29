@@ -7,8 +7,8 @@
     <ProjectGuid>{DA015F92-C1E8-4472-A005-1EC944CC2AFA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PadroesDeProjeto</RootNamespace>
-    <AssemblyName>PadroesDeProjeto</AssemblyName>
+    <RootNamespace>AbstractFactory</RootNamespace>
+    <AssemblyName>AbstractFactory</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
