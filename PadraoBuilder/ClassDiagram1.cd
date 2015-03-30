@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PadraoBuilder.Classes.CarroBuilder" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CarroBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PadraoBuilder.Classes.Director" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PadraoBuilder.Classes.MotoBuilder" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\MotoBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PadraoBuilder.Classes.Veiculo" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAgACAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PadraoBuilder.Classes.VeiculoBuilder" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAgAAAAAAAAAQAAEAAEAAAAAAAA=</HashCode>
+      <FileName>Classes\VeiculoBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
