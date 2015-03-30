@@ -10,6 +10,7 @@ namespace PadraoBuilder
         {
             VeiculoBuilder builder;
             var director = new Director();
+            
             // cria produto
             builder = new CarroBuilder();
             director.Construct(builder);
@@ -18,6 +19,7 @@ namespace PadraoBuilder
             builder = new MotoBuilder();
             director.Construct(builder);
             builder.Veiculo.Mostrar();
+
             Console.ReadLine();
         }
     }
