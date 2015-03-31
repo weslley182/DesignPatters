@@ -1,5 +1,4 @@
-﻿
-namespace Prototype.Classes
+﻿namespace Prototype.Classes
 {
     // Concrete Prototype
     public class DVD : Item

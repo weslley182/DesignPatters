@@ -1,5 +1,4 @@
-﻿
-namespace Prototype.Classes
+﻿namespace Prototype.Classes
 {
     // Prototype
     public abstract class Item
@@ -8,6 +7,7 @@ namespace Prototype.Classes
         public int Id { get; set; }
         public string Descricao { get; set; }
         public double Preco { get; set; }
+
         // construtor
         public Item(int id, string descricao, double preco)
         {
